@@ -1,6 +1,6 @@
 ## 训练参数
-batch_size 32
-train_epochs 27
+batch_size 32  
+train_epochs 27  
 Accuracy: 0.6820
 
 Classification Report:
@@ -19,8 +19,8 @@ weighted avg       0.67      0.68      0.67      8045
 
 Confusion Matrix:
 
-[[ 848  137   61  220   32]
+`[[ 848  137   61  220   32]
  [ 115 1100   55  222   87]
  [ 148  117  483  289  140]
  [ 153  388  215  685   79]
- [   9   27   27   37 2371]]
+ [   9   27   27   37 2371]]`
