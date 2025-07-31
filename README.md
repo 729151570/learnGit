@@ -2,6 +2,7 @@
 batch_size 32
 train_epochs 27
 Accuracy: 0.6820
+
 Classification Report:
 
               precision    recall  f1-score   support
@@ -17,6 +18,7 @@ Classification Report:
 weighted avg       0.67      0.68      0.67      8045
 
 Confusion Matrix:
+
 [[ 848  137   61  220   32]
  [ 115 1100   55  222   87]
  [ 148  117  483  289  140]
